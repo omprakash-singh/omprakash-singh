@@ -42,7 +42,6 @@
     width: 100%;
     position: absolute;
     left: 0%;
-    transition: 2s;
   }
   .display-navbar {
     height: auto;
