@@ -26,14 +26,22 @@
   height: 50vh;
   background-color: aqua;
 }
-
+.menu-button {
+  display: none;
+}
 @media screen and (max-width: 700px) {
   .menu-button {
-    display: grid;
+    display: block;
     position: absolute;
-    right: 5%;
-    top: 2%;
+    right: 4%;
+    top: 4%;
+  }
+  #nav-button {
+    padding: 10px 10px;
+    border: none;
+    background: none;
     font-size: 30px;
+    color: blue;
   }
   .navbar {
     height: 0;
@@ -42,9 +50,6 @@
     width: 100%;
     position: absolute;
     left: 0%;
-  }
-  .display-navbar {
-    height: auto;
   }
   .navbar nav ul li {
     display: block;
@@ -61,5 +66,8 @@
     width: 100%;
     height: 50vh;
     background-color: aqua;
+  }
+  .display-navbar {
+    height: auto;
   }
 }
