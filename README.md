@@ -1,2 +1,1 @@
-"# omprakash-singh" 
-## This is omprakash singh
+## omprakash singh
