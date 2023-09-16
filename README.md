@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Omprakash singh
 
-![Profile Animation](https://your-animation-link-here.gif)
 
 I'm a passionate full-stack developer and a Computer Science Engineering student currently pursuing a B.Tech degree. I thrive on crafting elegant solutions to complex problems and building web applications that make a meaningful impact. Here are a few things I'm skilled in:
 
@@ -13,6 +12,6 @@ I'm a passionate full-stack developer and a Computer Science Engineering student
 
 Let's connect and collaborate on exciting projects! Whether it's discussing the latest tech trends, brainstorming solutions, or writing code that transforms ideas into reality, I'm always up for the challenge.
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername).
+Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/omprakash-singh-7768611bb/)https://www.linkedin.com/in/omprakash-singh-7768611bb/).
 
 Let's code and create together! 🚀
