@@ -12,6 +12,6 @@ I'm a passionate full-stack developer and a Computer Science Engineering student
 
 Let's connect and collaborate on exciting projects! Whether it's discussing the latest tech trends, brainstorming solutions, or writing code that transforms ideas into reality, I'm always up for the challenge.
 
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/omprakash-singh-7768611bb/)https://www.linkedin.com/in/omprakash-singh-7768611bb/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/omprakash-singh-7768611bb)https://www.linkedin.com/in/omprakash-singh-7768611bb).
 
 Let's code and create together! 🚀
