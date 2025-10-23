@@ -1,17 +1,52 @@
-# Hi there! 👋 I'm Omprakash singh
+# 👋 Hi, I'm **Omprakash Singh**
 
+🚀 **Full Stack Developer** | 💻 **MEAN & MERN Stack Enthusiast** | 🎓 **B.Tech in Computer Science Engineering**
 
-I'm a passionate full-stack developer and a Computer Science Engineering student currently pursuing a B.Tech degree. I thrive on crafting elegant solutions to complex problems and building web applications that make a meaningful impact. Here are a few things I'm skilled in:
+---
 
-- 💻 **Tech Stacks:** MEAN (MongoDB, Express.js, Angular, Node.js) and MERN (MongoDB, Express.js, React, Node.js).
-- 🌐 **Web Development:** I love creating web applications that solve real-world problems.
-- 🚀 **Open Source:** Actively contribute to open-source projects.
-- 📚 **Continuous Learning:** Always eager to explore and learn about new technologies.
-- 🔍 **Problem Solving:** Enjoy tackling challenging problems and finding innovative solutions.
-- 🌱 **Education:** Currently pursuing a B.Tech in Computer Science Engineering.
+### 👨‍💻 About Me  
+I'm a passionate **Full-Stack Developer** dedicated to crafting scalable, high-performance web applications.  
+I enjoy solving real-world problems through clean, efficient, and modern code — and I’m always learning something new in the world of tech.
 
-Let's connect and collaborate on exciting projects! Whether it's discussing the latest tech trends, brainstorming solutions, or writing code that transforms ideas into reality, I'm always up for the challenge.
+---
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/omprakash-singh-7768611bb).
+### 🛠️ Tech Stack  
+**Frontend:** React.js, Angular, HTML5, CSS3, JavaScript, TypeScript  
+**Backend:** Node.js, Express.js, NestJS  
+**Database:** MongoDB, MySQL, DynamoDB  
+**DevOps & Tools:** AWS, Docker, Git, Postman, VS Code  
+**Others:** REST API, GraphQL, Responsive UI Design, Cloud Architecture  
 
-Let's code and create together! 🚀
+---
+
+### 🌱 Currently Working On  
+- 🚀 Building full-stack apps using **NestJS**, **React**, and **AWS**  
+- 🧠 Exploring **Cloud & Scalable Architecture**  
+- 💡 Contributing to **open-source projects**  
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+
+![Omprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=omprakash-singh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash-singh&layout=compact&theme=radical)  
+
+</div>
+
+---
+
+### 🤝 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/omprakash-singh-7768611bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omprakashsingh@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> _"Code with passion, learn with curiosity, and build with purpose."_ ✨
